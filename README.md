@@ -1,1 +1,1 @@
-# odoo-sh-12
+# odoo-sh-test_qunit
